@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jvict\\source\\repos\\ApiYoutube\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A328902C-596C-4139-BB00-FCC2D1DBA76E}|ApiYoutube.Api\\ApiYoutube.Api.csproj|c:\\users\\jvict\\source\\repos\\apiyoutube\\apiyoutube.api\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A328902C-596C-4139-BB00-FCC2D1DBA76E}|ApiYoutube.Api\\ApiYoutube.Api.csproj|solutionrelative:apiyoutube.api\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A328902C-596C-4139-BB00-FCC2D1DBA76E}|ApiYoutube.Api\\ApiYoutube.Api.csproj|c:\\users\\jvict\\source\\repos\\apiyoutube\\apiyoutube.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A328902C-596C-4139-BB00-FCC2D1DBA76E}|ApiYoutube.Api\\ApiYoutube.Api.csproj|solutionrelative:apiyoutube.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A328902C-596C-4139-BB00-FCC2D1DBA76E}|ApiYoutube.Api\\ApiYoutube.Api.csproj|c:\\users\\jvict\\source\\repos\\apiyoutube\\apiyoutube.api\\models\\videodetalhes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A328902C-596C-4139-BB00-FCC2D1DBA76E}|ApiYoutube.Api\\ApiYoutube.Api.csproj|solutionrelative:apiyoutube.api\\models\\videodetalhes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 427,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VideoDetalhes.cs",
+              "DocumentMoniker": "C:\\Users\\jvict\\source\\repos\\ApiYoutube\\ApiYoutube.Api\\Models\\VideoDetalhes.cs",
+              "RelativeDocumentMoniker": "ApiYoutube.Api\\Models\\VideoDetalhes.cs",
+              "ToolTip": "C:\\Users\\jvict\\source\\repos\\ApiYoutube\\ApiYoutube.Api\\Models\\VideoDetalhes.cs",
+              "RelativeToolTip": "ApiYoutube.Api\\Models\\VideoDetalhes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:57:38.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jvict\\source\\repos\\ApiYoutube\\ApiYoutube.Api\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ApiYoutube.Api\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jvict\\source\\repos\\ApiYoutube\\ApiYoutube.Api\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ApiYoutube.Api\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAcwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:55:56.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 295,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jvict\\source\\repos\\ApiYoutube\\ApiYoutube.Api\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ApiYoutube.Api\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jvict\\source\\repos\\ApiYoutube\\ApiYoutube.Api\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ApiYoutube.Api\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T23:48:29.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
